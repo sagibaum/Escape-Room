@@ -1,0 +1,2 @@
+C:\Users\sagib\Desktop\c++ gaming session\Escape room\Escape_room\Intermediate\Build\Win64\UE4Editor\Development\Escape_room\Definitions.Escape_room.h
+C:\Users\sagib\Desktop\c++ gaming session\Escape room\Escape_room\Source\Escape_room\Escape_room.h

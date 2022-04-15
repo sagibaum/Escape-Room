@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Escape_room.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{6BCDAF8B-E940-4D66-98D5-0A3954B23149}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Escape_room.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Escape_roomEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{1104674A-2283-458F-83E5-45BF22381E1D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Escape_room">
+      <UniqueIdentifier>{7DE49BCC-19EF-4852-BC3F-D198253B5FCE}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Escape_room\Escape_room.Build.cs">
+      <Filter>Source\Escape_room</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Escape_room\Escape_room.cpp">
+      <Filter>Source\Escape_room</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Escape_room\Escape_room.h">
+      <Filter>Source\Escape_room</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Escape_room\Escape_roomGameModeBase.cpp">
+      <Filter>Source\Escape_room</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Escape_room\Escape_roomGameModeBase.h">
+      <Filter>Source\Escape_room</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
