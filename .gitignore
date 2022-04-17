@@ -361,3 +361,6 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+Saved/Config/Windows/EditorPerProjectUserSettings.ini
+Saved/AutoScreenshot.png
+Saved/Config/Windows/Engine.ini
